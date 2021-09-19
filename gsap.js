@@ -1,0 +1,1 @@
+gsap.fromTo("#g4138", { x: -800, duration: 1 }, { y: -300, x: -200, ease: "elastic" })
